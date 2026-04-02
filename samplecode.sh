@@ -1,1 +1,3 @@
- echo "Welcome to samplecode"
+echo "Welcome to samplecode"
+echo "Modifying the samplecode.sh"
+
